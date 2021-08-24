@@ -12,7 +12,7 @@ const abc=async(link)=>
 abc("http://universities.hipolabs.com/search?country=India")
 
 .then((e) => {
-    data=e.slice(0,50)
+    data=e
     console.log(data)
     myf();
 
