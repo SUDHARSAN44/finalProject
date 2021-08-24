@@ -1,0 +1,16 @@
+body
+   {
+     background-color: #FEFF86;
+     background-size: cover;
+     height: 100%;
+     width: 100%;
+     font-size: large;
+    }
+
+.card {
+    padding: 4px;
+    box-shadow: 0 4px 8px 0 #B8B861;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
